@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../web basica"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projetinho-bolado-do-triangulO_2"
+	}
+}
